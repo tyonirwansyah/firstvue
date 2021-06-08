@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "text": "Start Coding With the Bros",
+      "day": "Tonight, 9:00PM",
+      "id": 1
+    },
+    {
+      "text": "Prepare Meeting",
+      "day": "Tomorrow Afternoon , 4PM",
+      "id": 2
+    },
+    {
+      "text": "Create a Flask Project *Python",
+      "day": "Tommorow",
+      "id": 3
+    },
+    {
+      "text": "Machine Learning",
+      "day": "This Afternoon, 3PM",
+      "id": 4
+    }
+  ]
+}
